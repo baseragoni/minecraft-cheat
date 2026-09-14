@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/minecraft-cheat.Core/minecraft-cheat.Core.csproj" />
+    <Project Path="src/minecraft-cheat.Loader/minecraft-cheat.Loader.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/minecraft-cheat.Core.Tests/minecraft-cheat.Core.Tests.csproj" />
+  </Folder>
+</Solution>
