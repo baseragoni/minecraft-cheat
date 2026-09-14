@@ -1,0 +1,6 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <RootNamespace>McCheat.Core</RootNamespace>
+    <AssemblyName>McCheat.Core</AssemblyName>
+  </PropertyGroup>
+</Project>
